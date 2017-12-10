@@ -2,6 +2,9 @@
 
 This demo is for tracking the current location using GPSTracker for android. 
 
+### Setting up
+Download the code and open the GPSTracker file from android studio and run .
+
 ### Permission 
 
 Add these permissions to the android project manifest file to get access the location.
@@ -9,6 +12,8 @@ Add these permissions to the android project manifest file to get access the loc
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
      <uses-permission android:name="android.permission.INTERNET" />
 ```
+
+
 
 ### Code Guides 
 
