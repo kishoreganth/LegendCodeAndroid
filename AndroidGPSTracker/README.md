@@ -13,7 +13,8 @@ Add these permissions to the android project manifest file to get access the loc
      <uses-permission android:name="android.permission.INTERNET" />
 ```
 
-
+### Note 
+Remove this readme.md file and open in android studio to run.
 
 ### Code Guides 
 
